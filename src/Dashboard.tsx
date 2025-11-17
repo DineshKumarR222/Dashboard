@@ -102,7 +102,7 @@ const Dashboard: React.FC<AuthProps> = ({ setAuth }) => {
 
           <div style={{...styles.analyticsBox, backgroundColor: theme.cardBg, border: `1px solid ${theme.border}`}}>
             <ActivityIcon color={theme.textSecondary} />
-            <h3 style={{marginTop:'15px'}}>User Growth Analytic</h3>
+            <h3 style={{marginTop:'15px'}}>User Growth Analytics</h3>
             <p style={{color: theme.textSecondary}}>Data visualization API connection ready.</p>
           </div>
         </main>
